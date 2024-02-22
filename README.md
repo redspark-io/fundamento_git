@@ -4,7 +4,7 @@ Repositório para testes com o git
 ## Checklist de atualização: 
 
 * Bryan - Ok
-* Arthur - 
+* Arthur - Ok
 * Noah - 
 * Laila - 
 * Thassio - Ok
