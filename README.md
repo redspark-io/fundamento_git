@@ -8,4 +8,4 @@ Repositório para testes com o git
 * Noah - Ok
 * Laila - 
 * Thassio - Ok
-* Alberto - 
+* Alberto - OK
