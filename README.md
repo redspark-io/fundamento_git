@@ -6,6 +6,6 @@ Repositório para testes com o git
 * Bryan - Ok
 * Arthur - Ok
 * Noah - Ok
-* Laila - 
+* Laila - Ok
 * Thassio - Ok
 * Alberto - OK
