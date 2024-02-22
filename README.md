@@ -5,7 +5,7 @@ Repositório para testes com o git
 
 * Bryan - Ok
 * Arthur - 
-* Noah - 
+* Noah - Ok
 * Laila - 
 * Thassio - 
 * Alberto - 
